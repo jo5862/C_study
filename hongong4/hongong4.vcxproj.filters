@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test(1).c">
+    <ClCompile Include="while.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
