@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="arry_repeat.c">
+    <ClCompile Include="27_sizeof_arry.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
