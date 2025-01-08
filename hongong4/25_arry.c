@@ -10,4 +10,5 @@ int main(void)
 	printf("%d\n", ary[3]);
 	printf("%d\n", ary[4]);
 	return 0;
+
 }
