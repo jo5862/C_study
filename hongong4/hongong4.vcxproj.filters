@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="30_get_put.c">
+    <ClCompile Include="test5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
