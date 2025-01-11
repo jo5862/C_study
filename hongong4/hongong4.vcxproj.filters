@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="35_pointer_sum.c">
+    <ClCompile Include="36_pointer_sizeof.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
