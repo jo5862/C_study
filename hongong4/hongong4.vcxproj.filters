@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="41_ary_pointer.c">
+    <ClCompile Include="44_ary_input.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
