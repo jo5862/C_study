@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="36_pointer_sizeof.c">
+    <ClCompile Include="37_pointer_exchange.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
