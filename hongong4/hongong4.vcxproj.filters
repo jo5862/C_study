@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="44_ary_input.c">
+    <ClCompile Include="45_test7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
