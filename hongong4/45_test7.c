@@ -22,7 +22,7 @@ void input_nums(int* lotto_nums)
 		scanf("%d", &lotto_nums[i]);
 
 	}
-	printf("로또 번호 : %d", &lotto_nums[6]);
+
 
 }
 
@@ -35,5 +35,11 @@ void print_nums(int* lotto_nums)
 	//{
 	//	printf("%d", lotto_nums);
 	//}
-	
+	int i;
+	printf("로또번호: ");
+
+	for (i = 0; i < 6; i++)
+	{
+		printf("%d   ", lotto_nums[i]);
+	}
 }
