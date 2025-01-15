@@ -14,27 +14,44 @@ int main(void)
 
 void input_nums(int* lotto_nums)
 {
+	int num;
+	int i, j;
+	int dup;
 
-	int i;
 	for ( i = 0; i < 6; i++)
 	{
-		printf("번호입력 : ");
-		scanf("%d", &lotto_nums[i]);
+		printf("번호 입력 : ");
+		scanf("%d", &num);
+		dup = 0;
+		
+		for ( j = 0; j < i; j++)
+		{
+			if (num == lotto_nums[j])
+			{
+				dup = 1;
+				break;
+			}
+			
+		}
 
+		if (dup==1)
+		{
+			printf("같은 번호가 있습니다!\n");
+			i--;
+			continue;
+		}
+		else
+		{
+			lotto_nums[i] = num;
+		}
 	}
 
-
 }
+
 
 void print_nums(int* lotto_nums)
 {
 
-	//int i;
-
-	//for ( i = 0; i < 6; i++)
-	//{
-	//	printf("%d", lotto_nums);
-	//}
 	int i;
 	printf("로또번호: ");
 
@@ -42,4 +59,5 @@ void print_nums(int* lotto_nums)
 	{
 		printf("%d   ", lotto_nums[i]);
 	}
+	printf("\n");
 }
