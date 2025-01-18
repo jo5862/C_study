@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="51_strncpy.c">
+    <ClCompile Include="strlen.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
