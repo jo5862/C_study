@@ -12,13 +12,13 @@ int main(void)
 	printf("세 단어 입력 :");
 	scanf("%s %s %s", str1, str2, str3);
 
-	if (strcmp(str1, str2) > 0) //각  단어들을 앞 단어 부터 아스키코드값을 참조해 비교를한다 
+	if (strcmp(str1, str2) < 0) //각  단어들을 앞 단어 부터 아스키코드값을 참조해 비교를한다 
 		swap(str1, str2);	//str1 pear에서 'r'은 코드값114, str2 peach에서 'c'는 코드값 99 
-	if (strcmp(str2,str3)>0)
+	if (strcmp(str2,str3)<0)
 	{
 		swap(str2, str3);
 	}
-	if (strcmp(str3,str1)>0)
+	if (strcmp(str3,str1)<0)
 	{
 		swap(str3, str1);
 	}
