@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="multiple_ary.c">
+    <ClCompile Include="64_scanf_char_multiple.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
