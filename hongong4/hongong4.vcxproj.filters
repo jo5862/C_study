@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="69_test10.c">
+    <ClCompile Include="68_pointer_double_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
