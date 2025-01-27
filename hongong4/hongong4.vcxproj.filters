@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="71_function_sol.c">
+    <ClCompile Include="72_void_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
