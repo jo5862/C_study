@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="77_ary_strcut.c">
+    <ClCompile Include="79_struct_max.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
