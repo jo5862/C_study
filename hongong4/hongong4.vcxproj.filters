@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="79_struct_max.c">
+    <ClCompile Include="80_struct_exchange.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
