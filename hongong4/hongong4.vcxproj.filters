@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="74_malloc.c">
+    <ClCompile Include="75_malloc_ary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
