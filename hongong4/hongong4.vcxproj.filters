@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="80_struct_exchange.c">
+    <ClCompile Include="81_struct_ary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
