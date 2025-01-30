@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="89_stdin_stdout.c">
+    <ClCompile Include="90_fread_fwrite.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
