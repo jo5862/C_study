@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="88_fgetc.c">
+    <ClCompile Include="89_stdin_stdout.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
