@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="87_fputc.c">
+    <ClCompile Include="88_fgetc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
