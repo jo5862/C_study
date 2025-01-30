@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="90_fread_fwrite.c">
+    <ClCompile Include="92_macro.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
