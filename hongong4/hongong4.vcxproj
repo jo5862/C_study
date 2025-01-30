@@ -19,8 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="95_main.c" />
-    <ClCompile Include="95_sub.c" />
+    <ClInclude Include="96_line.h" />
+    <ClInclude Include="96_point.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="96_main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
